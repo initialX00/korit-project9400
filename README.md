@@ -1,74 +1,38 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=500&section=header&text=Team%20Name&fontSize=100)
 
-# 🔖 목차
-
-> ## [✨ 프로젝트 소개](#-프로젝트-소개)
->
-> ## [👥 팀원 소개](#-팀원-소개)
->
-> ## [💼 역할 분담](#-역할-분담)
->
-> ## [🤝 협업 방식](#-협업-방식)
->
-> ## [📚 프로젝트 진행 상황 관리](#-프로젝트-진행-상황-관리)
->
-> ## [🔍 브랜치 전략](#-브랜치-전략)
->
-> ## [✔ 컨벤션](#-컨벤션)
->
-> ## [🛠 개발 도구](#-개발-도구)
->
-> ## [📆 프로젝트 일정](#-프로젝트-일정)
->
-> ## [📄 API 명세서&ERD 설계도](#-api-명세서erd-설계도)
->
-> ## [📋 메뉴 구조도](#-메뉴-구조도)
->
-> ## [🖥 화면 구현](#-화면-구현)
->
-> ## [💡 느낀점](#-느낀점)
-
-<br/>
-<br/>
-
-## ✨ 프로젝트 소개 [Notion](https://mangrove-comic-a17.notion.site/Team-Project-dc414362131b4ee799fa852737236fa9?pvs=4)
-
-![header](https://github.com/Novel-Ideas/gumeonggage-back/assets/106566223/557cd871-61f7-43cc-b4a1-0f19b6e3bfcc)
-
-### 🌟 제목
-
--   매장용 키오스크 "팀이름" 개발
+## ✨ 프로젝트 소개 [Notion](https://www.notion.so/Project9400-1cb02444254a80b2a9a0c9a6dc9c6e23)
 
 ### 🚀 목적
 
--   학습 내용의 복습 및 활용, 팀원들 간 협업과 과정 이해
+-   불편함이 크다고 알려진 맥도날드 키오스크를 개선하기
 
 ### 🤝 팀 프로젝트
 
 -   팀원 4명
 
-### 📆 제작 기간
-
 -   2025.03.10 ~ 2025.04.11
 
 ### 🔎 주요 기능
 
--   관리자 회원가입 및 로그인
+-   관리자 회원가입 및 로그인, oAuth로 회원가입 및 로그인
 -   관리자 모드 메뉴
 
+    > 메뉴 조회, 메뉴 노출 변경
+    
+    > 메뉴 추가, 수정, 삭제
+    
     > 전체 매출 및 제품별 매출 조회
 
-    > 결제 내역 조회
+    > 결제 내역 조회 및 결제 취소
 
-    > 메뉴 추가/관리
-
-    > 점포 관리(가게 설정, 비밀번호 변경하기)
+    > 관리자 정보 수정 (점포명 변경, 비밀번호 변경, 이메일 변경)
 
 -   사용자 모드 메뉴
 
-    > 포장/매장 여부 선택
+    > 포장/매장 여부 선택, 언어 선택 
 
-    > 전체 및 카테고리별 메뉴 선택
+    > 메뉴 선택 ( 단품, 세트 / 미디엄, 라지 / 세트메뉴의 구성품 )
+    
+    > 장바구니 수량 추가, 삭제, 변경
 
     > 결제 방법(카카오페이)
 
@@ -77,55 +41,10 @@
 <br/>
 <br/>
 
-<p align="right" dir="auto">
-<a href="https://github.com/Mcdonald-Kiosk">TOP 🔼</a>
-</p>
-
-## 👥 팀원 소개
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/292c4e68-ab8f-47bb-bfc7-c50deaa321eb" />
-<table >
-    <thead>
-        <tr>
-            <th align="center"><span>권민창(팀장)</span></th>
-            <th align="center"><span>백진우</span></th>
-            <th align="center"><span>최명준</span></th>
-            <th align="center"><span>최석현</span></th>
-        </tr>
-    </thead>
-    <tbody>
-        <td align="center">
-            <a href="https://github.com/dongyoon7212">
-                <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/50f5a224-bbbc-4486-9ce0-b873d962898d" width="150" height="150" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/ez0603">
-                <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/50f5a224-bbbc-4486-9ce0-b873d962898d" width="150" height="150" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/chlaudwns94">
-                <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/b015e01d-1078-428e-a713-a92b23e4ff6a" width="150" height="150" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/doosan5464">
-                <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/ffb0f7a2-6df1-4935-8b3f-036cf89e344b" width="150" height="150" />
-            </a>
-        </td>
-    </tbody>
-</table>
-</div>
-
-<p align="right" dir="auto">
-<a href="https://github.com/Novel-Ideas/gumeonggage-front">TOP 🔼</a>
-</p>
 
 ## 💼 역할 분담
 
-<h3> 🛩 팀장: 권민창 </h3>
+<h3> 팀장: 권민창 </h3>
 
 ### 🔧 Back-End
 
@@ -136,7 +55,7 @@
 
 -   프로젝트 최종 발표
 
-<h3> 👩‍💻 팀원: 백진우 </h3>
+<h3> 팀원: 백진우 </h3>
 
 ### 🔧 Back-End
 
@@ -144,7 +63,7 @@
 ### 🖥 Front-End
 
 
-<h3> 🧑‍💻 팀원: 최명준 </h3>
+<h3> 팀원: 최명준 </h3>
 
 ### 🔧 Back-End
 
@@ -163,7 +82,7 @@
 -   포인트 등록 페이지
 -   OAuth2 로그인 페이지
 
-<h3> 🧑‍💻 팀원: 최석현 </h3>
+<h3> 팀원: 최석현 </h3>
 
 ### 🔧 Back-End
 -   메뉴 항목을 위한 menu_tb GET 요청
@@ -180,15 +99,15 @@
 -   관리자 카테고리 관리 페이지
 
 
-> 공동 작업
+
+<h3> 공동 작업 </h3> 
 
 -   디자인 도안 작업
--   Front 명세서 작성
 -   API 명세서 작성
 -   DB 설계
+-   ERD 작성
 
-<p align="right" dir="auto">
-<a href="https://github.com/Mcdonald-Kiosk">TOP 🔼</a>
+
 </p>
 
 <br/>
