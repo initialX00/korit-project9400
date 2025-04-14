@@ -99,8 +99,8 @@
 <h3> 팀원: 최석현 </h3>
 
 ### 🔧 Back-End
--   메뉴 항목을 위한 menu_tb GET 요청
--   주문 정보를 저장할 order_tb, order_detail_tb POST 요청
+-   메뉴 불러오기
+-   주문 정보를 저장
 
 ### 🖥 Front-End
 -   고객 홈 페이지(언어, 장소)
