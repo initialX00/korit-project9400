@@ -122,10 +122,10 @@
 
 ## 🤝 협업 방식
 
-1. 실무경험자가 없어서 방향성을 잡기위해 figma와 front의 틀부터 잡는것을 목표로 했습니다.
+1. 팀원 간의 명확한 아이디어 공유를 위해 figma와 front로 틀부터 잡는것을 목표로 했습니다.
 2. 각 개인의 GitHub Issue를 생성합니다.
-3. 작업을 완료하면 각자의 생성한 브랜치에서 코드를 push합니다.
-4. PR(Pull Request) 을 오픈합니다. 팀장이 코드를 확인하고 승인합니다.
+3. 작업을 완료하면 각자의 생성한 브랜치에서 코드를 push하여 Pull Requset합니다.
+4. 팀장이 코드를 확인하고 Merge합니다.
 
 </br></br>
 
@@ -201,7 +201,6 @@
 | --------------------------------------------------------------------------- | ------------------------------------------ |
 | emotion/react, emotion/styled                                               | 리액트 내 css 적용                         |
 | portone/browser-sdk                                                         | QR 코드로 결제 기능 구현                   |
-| react-google-maps/api                                                       | 구글 맵을 불러와 화면에 구현               |
 | testing-library/jest-dom, testing-library/react, testing-library/user-event | 리액트 dom 테스트                          |
 | axios                                                                       | 서버로 요청을 보내 통신                    |
 | firebase                                                                    | 저장된 이미지를 업로드                     |
