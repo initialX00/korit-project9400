@@ -1,17 +1,17 @@
 
 ## ✨ 프로젝트 소개 [Notion](https://www.notion.so/Project9400-1cb02444254a80b2a9a0c9a6dc9c6e23)
 
-### 🚀 목적
+### 목적
 
 -   불편함이 크다고 알려진 맥도날드 키오스크를 개선하기
 
-### 🤝 팀 프로젝트
+### 팀 프로젝트
 
 -   팀원 4명
 
 -   2025.03.10 ~ 2025.04.11
 
-### 🔎 주요 기능
+### 주요 기능
 
 -   관리자 회원가입 및 로그인, oAuth로 회원가입 및 로그인
 -   관리자 모드 메뉴
@@ -50,8 +50,6 @@
 
 ### 🖥 Front-End
 
-
-### etc.
 
 -   프로젝트 최종 발표
 
@@ -212,9 +210,7 @@
 | sweetalert2                                                                 | 알림창 구현                                |
 | uuid                                                                        | 고유 아이디 값을 생성하는 함수 제공        |
 
-<p align="right" dir="auto">
-<a href="https://github.com/Novel-Ideas/gumeonggage-front">TOP 🔼</a>
-</p>
+
 
 <br/>
 <br/>
@@ -229,11 +225,11 @@
 
 ## 📄 API 명세서&ERD 설계도
 
-### 🛰 API 명세서
+### API 명세서
 
 [https://mangrove-comic-a17.notion.site/da55c3b2cb47486eb592dbc297ae8e01?v=f865787f598c4dec933cb6990c5719cd&pvs=4](https://www.notion.so/API-1ba6b4c1c40a8088bf05f6da67394a8b)
 
-### 📐 ERD 설계도
+### ERD 설계도
 
 ![ERD 다이어그램](https://github.com/Novel-Ideas/gumeonggage-front/assets/106566223/5074a2e8-503f-48f6-9b48-dfd2a56f7938)
 
@@ -246,11 +242,11 @@
 
 ## 📋 메뉴 구조도
 
-### 🧑‍🤝‍🧑 사용자 메뉴 구조도
+### 사용자 메뉴 구조도
 
 ![사용자 메뉴 구조도](https://github.com/user-attachments/assets/fa0cec62-2c8a-4b35-87b2-377dc99100f7)
 
-### 👷‍♂️ 관리자 메뉴 구조도
+###  관리자 메뉴 구조도
 ![관리자 메뉴 구조도](https://github.com/user-attachments/assets/c29ba4b1-2ac6-418a-8060-0c45af858e71)
 
 <p align="right" dir="auto">
@@ -262,7 +258,7 @@
 
 ## 🖥 화면 구현
 
-### 🔐 관리자 계정 화면
+### 관리자 계정 화면
 
 <div align="center" dir="auto">
     <b>회원가입 및 로그인 화면</b>
@@ -315,7 +311,7 @@
 </br>
 </br>
 
-### 🍔 주문 화면
+### 주문 화면
 </br>
 </br>
 <div align="center" dir="auto">
