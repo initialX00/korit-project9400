@@ -1,5 +1,7 @@
 
-## ✨ 프로젝트 소개 [Notion](https://www.notion.so/Project9400-1cb02444254a80b2a9a0c9a6dc9c6e23)
+## ✨ 프로젝트 소개 
+
+[Notion](https://www.notion.so/Project9400-1cb02444254a80b2a9a0c9a6dc9c6e23)
 
 ### 목적
 
@@ -229,9 +231,12 @@
 
 ## 📄 API 명세서&ERD 설계도
 
-### API 명세서
-
-[https://mangrove-comic-a17.notion.site/da55c3b2cb47486eb592dbc297ae8e01?v=f865787f598c4dec933cb6990c5719cd&pvs=4](https://www.notion.so/API-1ba6b4c1c40a8088bf05f6da67394a8b)
+### [API 명세서](https://www.notion.so/API-1ba6b4c1c40a8088bf05f6da67394a8b)
+<div align="center" dir="auto">
+    <img src="https://github.com/user-attachments/assets/7d155c2b-19c0-4f83-9beb-6416d054cf7a" align="center" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/d71f2cd0-452a-461a-829b-d929ab1b8acd" align="center" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/bfd416dc-2368-4aa6-ace3-eabae956f24f" align="center" width="100%"/>
+</div>
 
 ### ERD 설계도
 
