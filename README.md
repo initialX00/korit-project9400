@@ -222,7 +222,7 @@
 
 ## 📆 프로젝트 일정
 
-![Image](https://github.com/user-attachments/assets/f5d76794-af35-4d10-a8a5-275daf22d89c)
+![Image](https://github.com/user-attachments/assets/e0ea85a6-52c4-4aa1-96a0-e635c5db8e6f)
 
 
 </br></br></br></br>
@@ -235,7 +235,7 @@
 
 ### ERD 설계도
 
-![ERD 다이어그램](https://github.com/Novel-Ideas/gumeonggage-front/assets/106566223/5074a2e8-503f-48f6-9b48-dfd2a56f7938)
+![ERD 다이어그램](https://github.com/user-attachments/assets/548be824-ceac-4656-90b1-f6168f1be425)
 
 <p align="right" dir="auto">
 <a href="https://github.com/Novel-Ideas/gumeonggage-front">TOP 🔼</a>
@@ -247,10 +247,10 @@
 
 ### 사용자 메뉴 구조도
 
-![사용자 메뉴 구조도](https://github.com/user-attachments/assets/fa0cec62-2c8a-4b35-87b2-377dc99100f7)
+![사용자 메뉴 구조도](https://github.com/user-attachments/assets/aa8bfe02-662c-4b96-aaed-3170ccd04360)
 
 ###  관리자 메뉴 구조도
-![관리자 메뉴 구조도](https://github.com/user-attachments/assets/c29ba4b1-2ac6-418a-8060-0c45af858e71)
+![관리자 메뉴 구조도](https://github.com/user-attachments/assets/3ed1d629-d9d3-4130-a076-05f9f1fb3e76)
 
 <p align="right" dir="auto">
 <a href="https://github.com/Novel-Ideas/gumeonggage-front">TOP 🔼</a>
