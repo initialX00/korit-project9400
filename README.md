@@ -206,7 +206,6 @@
 | portone/browser-sdk                                                         | QR 코드로 결제 기능 구현                   |
 | testing-library/jest-dom, testing-library/react, testing-library/user-event | 리액트 dom 테스트                          |
 | axios                                                                       | 서버로 요청을 보내 통신                    |
-| firebase                                                                    | 저장된 이미지를 업로드                     |
 | react-dom, react-router-dom                                                 | 주소 요청 발생 시 각 페이지로 이동         |
 | react-icons                                                                 | 리액트 아이콘을 불러와 사용                |
 | react-query                                                                 | 서버 데이터 동기화(fetching, caching) 지원 |
@@ -243,9 +242,6 @@
 
 ![ERD 다이어그램](https://github.com/user-attachments/assets/548be824-ceac-4656-90b1-f6168f1be425)
 
-<p align="right" dir="auto">
-<a href="https://github.com/Novel-Ideas/gumeonggage-front">TOP 🔼</a>
-</p>
 
 </br></br></br></br>
 
@@ -258,9 +254,10 @@
 ###  관리자 메뉴 구조도
 ![관리자 메뉴 구조도](https://github.com/user-attachments/assets/3ed1d629-d9d3-4130-a076-05f9f1fb3e76)
 
-<p align="right" dir="auto">
-<a href="https://github.com/Novel-Ideas/gumeonggage-front">TOP 🔼</a>
-</p>
+### 피그마
+![고객 페이지](https://github.com/user-attachments/assets/a2a255d5-2884-4204-9549-e72a3da4386d)
+
+![관리자 페이지](https://github.com/user-attachments/assets/32d5d156-a6ff-444b-b12c-837bac6e668f)
 
 </br></br></br></br>
 
